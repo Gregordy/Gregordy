@@ -8,9 +8,9 @@ If you know repos that need some, send me their location and I'll get them clean
 
 ### Izir
 
-[](https://izir.nc/images/izir_orange.svg)
+<img src="https://izir.nc/images/izir_orange.svg" width="480" />
 
-It's an hybrid mobile app.
+Izir is an hybrid mobile app.
 
 It allows shop owners from New Caledonia to manage their shop and be visible in 6 different languages including:
 - French
