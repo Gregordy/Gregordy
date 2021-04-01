@@ -20,12 +20,12 @@ It allows shop owners from New Caledonia to manage their shop and be visible in 
 - Korean and
 - Vietnamese.
 
-As about one fifth of this island's shops have an online presence, I thought that it would be useful to finally.
+As only about a fifth of this island' shops have an online presence, I thought that it would be useful to have such a tool and improve things.
 
 Plus, you can directly (from the app) interact with shops (shop owners in fact! you won't speak with walls won't you?!) from within the app.  
-This means that you no longer need to know the Facebook page of a shop, nor its email or phone number.
+This means that you no longer need to know the Facebook page of a shop, nor its email address or phone number.
 
-You'll have one medium to converse with it and it'll be simpler for everyone.
+You'll have one medium to converse with them and it'll be simpler for everyone.
 
 
 ### Marvelous Matcha
