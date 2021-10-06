@@ -4,7 +4,9 @@ I **love** refactoring code.
 
 If you know repos that need some, send me their location and I'll get them clean!
 
-Do you know Daily.dev? It's a useful extension that shows you recent dev articles and enable you to generate a cool card such as this one!
+**Do you know Daily.dev?**
+
+It's a useful extension that shows you recent dev articles and enable you to generate a cool card such as this one!
 
 <a href="https://app.daily.dev/Gregordy"><img src="https://api.daily.dev/devcards/03c76fd60bae47fe863736d8cefc15c2.png?r=1r8" width="400" alt="Grégory Poircuitte's Dev Card"/></a>
 
