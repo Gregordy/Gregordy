@@ -14,7 +14,7 @@ It's a useful extension that shows you recent dev articles and enable you to gen
 
 ### Izir
 
-Izir is an hybrid mobile app.
+[Izir](https://izir.nc) is an hybrid mobile app.
 
 It allows shop owners from New Caledonia to manage their shop and be visible in 6 different languages including:
 - French
