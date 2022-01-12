@@ -42,3 +42,11 @@ You think that [this comic](https://medium.com/slackjaw/coffee-people-vs-tea-peo
 Let's make it even more.
 
 I created this blog (link coming soon!) to teach people how to master making matcha!
+
+## Contact me
+
+The most practical way to reach out to me is adding me on:
+
+<a href="https://www.linkedin.com/in/gregordy/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Grégory Poircuitte's LinkedIn profile" />
+</a>
