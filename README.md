@@ -1,18 +1,17 @@
 # Ohayo!
 
-I **love** refactoring code.
+I **love** refactoring.
 
-If you know repos that need some, send me their location and I'll get them clean!
+If you know repos that need some, link me and I'll get them clean!
 
 **Do you know Daily.dev?**
 
-It's a useful browser extension that shows you recent dev articles and enables you to generate a cool card such as this one!
+It's a useful browser extension displaying recent dev-related articles and enables you to generate a cool card such as the following.
 
 <a href="https://app.daily.dev/Gregordy"><img src="https://api.daily.dev/devcards/03c76fd60bae47fe863736d8cefc15c2.png?r=1r8" width="400" alt="Grégory Poircuitte's Dev Card"/></a>
 
-I think it helps in staying up to date with the latest tech news without even trying. 
-
-The Daily.dev news feed replaces the default "New Tab" page so you'll likely stumble upon an article you'll like anytime in the day.
+It replaces the default "New Tab" page and works with serendipity.  
+Meaning, you may discover an article that'll pique your interest anytime in your day.
 
 ## Contact me
 
